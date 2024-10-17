@@ -1,0 +1,65 @@
+body{
+    text-align:center;
+    margin:40px 400px 45px 440px;
+    border:10px solid #9b9696;
+    border-radius:35px;
+    font-size:25px;
+    background-color: #020916;
+    min-width:250px;
+    padding: 0px 40px 0px 40px;
+}
+
+.sign{
+    position: absolute;
+
+}
+
+#create{
+    padding-top:70px;
+    font-size:40px;   
+    color: 
+    #dddada; 
+}
+.register{
+    color:
+    #dddada; 
+}
+
+.form-ele label text{
+    font-family:serif;
+    font-size:16px; 
+    color:
+    #dddada;
+}
+
+.pass{
+    padding-right:140px;
+}
+.name{
+    padding-right:160px;
+}
+.mail{
+    padding-right:145px;
+}
+.form-ele input{
+    height:40px;
+    width:200px; 
+   
+    text-align:justify;
+}
+#confo text{
+    font-size:16px;
+    padding-right:80px;
+}
+button{
+
+    height:30px;
+    width: 100px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #75E6DA;
+}
+a{
+    color: #75E6DA;
+}

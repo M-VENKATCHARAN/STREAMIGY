@@ -1,0 +1,65 @@
+body{
+    text-align:center;
+    margin:40px 440px 45px 440px;
+    border:10px solid #9b9696;
+    border-radius:35px;
+    font-size:25px;
+    background-color: #020916;
+   
+    
+  
+}
+.streamify{
+    padding-top:70px;
+    font-size:45px;   
+    color: 
+    #9b9696; 
+    
+}
+.streamify text{
+    font-family: Marker Felt, fantasy;
+    color:rgb(17, 97, 172);
+    font-weight:lighter;
+}
+form{
+   
+    position:static;
+    z-index: 1;
+    
+}
+.formy label text{
+    font-family:serif;
+    font-size:16px; 
+    color:
+    #dddada;
+    
+}
+.formy .mail label text{
+    padding-right:197px;
+}
+.formy .pass label text{
+    padding-right:164px;
+}
+.formy input{
+    height:40px;
+    width:250px; 
+    position:auto;
+    
+}
+button{
+
+    height:40px;
+    width: 120px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(163, 208, 250);
+}
+.forgot{
+    padding-top:10px;
+}
+a{
+    color: rgb(163, 208, 250);
+    font-size: 20px;
+    padding-left:120px;  
+}
